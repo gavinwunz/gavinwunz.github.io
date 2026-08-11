@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gavinwunz.github.io/sitemap.xml
